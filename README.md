@@ -1,6 +1,6 @@
 # End-To-End-SignLang-Detection
-1.constants
-2.entity
-3.components
-4.pipelines
-5.app.py
+1. constants
+2. entity
+3. components
+4. pipelines
+5. app.py
